@@ -14,7 +14,7 @@
 #### Step 2: Install MySQL or SQL Server (If Not Installed)
 
 - If you don’t have **MySQL** installed, download it from the [MySQL Official Site](https://dev.mysql.com/downloads/).
-- For **SQL Server**, download **SQL Server Management Studio (SSMS)** from Microsoft's website.
+- For **SQL Server**, download [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) from Microsoft's website.
 
 #### Step 3: Configure Database Connection in VS Code
 
